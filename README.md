@@ -1,2 +1,2 @@
 # PatatapClone
-<h1>Made clone for patatap using paper.js while learning about JS. <h1>
+<h3>Made clone for patatap as a learning project using paper.js, simple css. <h3>
